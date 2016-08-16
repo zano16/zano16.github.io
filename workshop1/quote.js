@@ -33,9 +33,9 @@ var q = document.getElementById("quote");
 
 q.innerHTML =
     "\"The " + programmer +
-    ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
-    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
-    "\u2014" +  "Fred Brooks, " + programmer;
+    ", like the student, does not work. He destroys his " +
+    life + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
+    "\u2014" +  "Zayd Normand, " + programmer;
 
 q.innerHTML += "<br><br><br>";
 
