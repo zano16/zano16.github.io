@@ -4,8 +4,8 @@
  * L&T quote generator
  */
 
-var things = ["Talking", "Sleeping", "Laughing", "Writing", "Eating", "Working"];
-var programmers = ["Tlker", "Sleeper", "Laugher", "Writer", "Eater", "Worker"]
+var things = ["Talking", "Sleeping", "Laughing", "Crying", "Eating", "Napping"];
+var programmers = ["Talker", "Sleeper", "Laugher", "Cryer", "Eater", "Napper"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
