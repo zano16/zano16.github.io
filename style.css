@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(153, 0, 0);
-    color: linen;
-    font-size: 150%;
-    line-height: 1.4;
+    background-color: rgb(255, 102, 102);
+    color: blue;
+    font-size: 250%;
+    line-height: 1.8;
 }
 
 h1{
     margin-top:0px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     border-bottom: 1px solid #AEB7A7;
 }
 
@@ -25,7 +25,7 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(50, 168, 63);
     text-decoration: none;
 }
 
@@ -80,5 +80,5 @@ img{
 .box img{
     margin: 0;
     padding: 0;
-    width: 100%;
+    width: 150%;
 }
